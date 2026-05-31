@@ -1,18 +1,170 @@
-# 💫 About Me:
-💻 Full Stack Web Developer<br>🎓 Currently studying Computer Engineering<br>🚀 Building projects using HTML, CSS, JavaScript, Node.js<br>📚 Learning and improving every day<br>
+<div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:ff8c00,100:ff5e00&text=Pradyum%20Meshram&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/pradyum.one_thrree) 
+# 👋 Hey, I'm Pradyum
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=Pradyum-02&theme=shadow_blue&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=Pradyum-02&theme=shadow_blue&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Pradyum-02&theme=shadow_blue&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+### Aspiring Full Stack Developer • Computer Engineering Student
+
+Building modern web experiences while continuously learning software development, web technologies, and problem-solving.
+
+<p>
+<a href="https://github.com/Pradyum-02">
+<img src="https://img.shields.io/github/followers/Pradyum-02?style=for-the-badge&logo=github" />
+</a>
+
+<a href="https://pradyum-02.github.io/personal-portfolio/">
+<img src="https://img.shields.io/badge/Portfolio-Visit%20Website-orange?style=for-the-badge" />
+</a>
+</p>
+
+</div>
 
 ---
-[![](https://komarev.com/ghpvc/?username=Pradyum-02&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 👨‍💻 About Me
+
+I'm a Computer Engineering student with a strong interest in full-stack web development and software engineering.
+
+Currently, I'm focused on strengthening my foundations in frontend development, backend technologies, databases, and data structures & algorithms while building practical projects that enhance my technical skills.
+
+I enjoy creating clean, responsive, and user-focused web applications while continuously exploring modern development tools and best practices.
+
+---
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,python,mysql,mongodb,git,github,vscode" />
+
+</div>
+
+---
+
+## 🚀 Currently Learning
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,python" />
+
+</div>
+
+- Frontend Development
+- Backend Development
+- Data Structures & Algorithms
+- Database Management Systems
+- Full Stack Development
+
+---
+
+## 🏗 Featured Projects
+
+### 🌐 Personal Portfolio Website
+
+A modern, responsive portfolio website designed to showcase my skills, projects, and development journey. Built with a strong focus on performance, clean design, accessibility, and user experience.
+
+#### Highlights
+
+- Mobile-first responsive design
+- Modern UI/UX principles
+- Smooth animations and interactions
+- Optimized performance
+- Clean and maintainable code structure
+
+#### Tech Used
+
+<img src="https://skillicons.dev/icons?i=html,css,js" />
+
+🔗 **Live Demo:**  
+https://pradyum-02.github.io/personal-portfolio/
+
+---
+
+### 📚 Academic Projects
+
+A collection of academic and coursework-based projects developed during my Computer Engineering studies, focusing on software development, database systems, web technologies, algorithms, and computer science fundamentals.
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Pradyum-02&show_icons=true&theme=transparent&title_color=ff8c00&icon_color=ff8c00&text_color=ffffff&border_color=30363d" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pradyum-02&layout=compact&theme=transparent&title_color=ff8c00&text_color=ffffff&border_color=30363d" />
+
+<br><br>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Pradyum-02&theme=highcontrast&ring=ff8c00&fire=ff8c00&currStreakLabel=ff8c00&hide_border=true" />
+
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Pradyum-02&theme=algolia&no-frame=true&row=1&column=6" />
+
+</div>
+
+---
+
+## 🎯 Current Goals
+
+- Strengthen Frontend Development Skills
+- Master JavaScript & React
+- Learn Backend Development with Node.js
+- Build Full Stack Projects
+- Practice Data Structures & Algorithms
+- Contribute Consistently on GitHub
+- Secure Internship Opportunities
+
+---
+
+## ⚙️ Development Tools
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=vscode,git,github,figma" />
+
+</div>
+
+---
+
+## 📫 Connect With Me
+
+<div align="center">
+
+<a href="https://github.com/Pradyum-02">
+<img src="https://skillicons.dev/icons?i=github" />
+</a>
+
+&nbsp;&nbsp;&nbsp;
+
+<a href="YOUR_LINKEDIN_URL">
+<img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
+
+&nbsp;&nbsp;&nbsp;
+
+<a href="mailto:YOUR_EMAIL">
+<img src="https://skillicons.dev/icons?i=gmail" />
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### Code • Learn • Build • Repeat
+
+*"Turning ideas into digital experiences."*
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:ff8c00,100:ff5e00"/>
