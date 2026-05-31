@@ -87,31 +87,19 @@ A collection of academic and coursework-based projects developed during my Compu
 
 ---
 
+## 📈 Contribution Graph
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Pradyum-02&theme=tokyo-night)
+
 ## 📊 GitHub Analytics
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Pradyum-02&show_icons=true&theme=transparent&title_color=ff8c00&icon_color=ff8c00&text_color=ffffff&border_color=30363d" />
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pradyum-02&layout=compact&theme=transparent&title_color=ff8c00&text_color=ffffff&border_color=30363d" />
-
-<br><br>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Pradyum-02&theme=highcontrast&ring=ff8c00&fire=ff8c00&currStreakLabel=ff8c00&hide_border=true" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Pradyum-02&theme=tokyonight&hide_border=true"/>
 
 </div>
 
----
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Pradyum-02&theme=algolia&no-frame=true&row=1&column=6" />
-
-</div>
-
----
 
 ## 🎯 Current Goals
 
@@ -167,4 +155,4 @@ A collection of academic and coursework-based projects developed during my Compu
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:ff8c00,100:ff5e00"/>
+<div align="center"><img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:ff8c00,100:ff5e00"/></div>
