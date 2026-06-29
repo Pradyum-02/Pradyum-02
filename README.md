@@ -76,7 +76,7 @@ A modern, responsive portfolio website designed to showcase my skills, projects,
 
 <img src="https://skillicons.dev/icons?i=html,css,js" />
 
-🔗 **Live Demo:**  
+🔗 **Live Webiste:**  
 https://portfolio-pradyum.vercel.app/
 
 ---
