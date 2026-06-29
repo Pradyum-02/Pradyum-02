@@ -13,7 +13,7 @@ Building modern web experiences while continuously learning software development
 <img src="https://img.shields.io/github/followers/Pradyum-02?style=for-the-badge&logo=github" />
 </a>
 
-<a href="[https://pradyum-02.github.io/personal-portfolio/](https://portfolio-pradyum.vercel.app/)">
+<a href="https://portfolio-pradyum.vercel.app/">
 <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-orange?style=for-the-badge" />
 </a>
 </p>
