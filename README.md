@@ -151,7 +151,7 @@ A collection of academic and coursework-based projects developed during my Compu
 
 ### Code • Learn • Build • Repeat
 
-*"Turning ideas into digital experiences."*
+*"Made with Love & A lot of Coffee"*
 
 </div>
 
