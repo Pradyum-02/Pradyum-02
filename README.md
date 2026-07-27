@@ -99,7 +99,7 @@ A full-stack URL shortening application that generates short URLs and redirects 
 <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb" />
 
 🔗 **Live Website:**  
-https://url-shortener-frontend-six-chi.vercel.app/
+https://url-shortener-nu-ecru.vercel.app/
 
 ---
 
