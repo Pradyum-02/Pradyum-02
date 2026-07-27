@@ -140,7 +140,7 @@ A secure authentication system implementing modern user authentication and autho
 <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb" />
 
 🔗 **GitHub:**  
-https://authentication-service-2j59.onrender.com
+https://github.com/Pradyum-02/Authentication-Service
 
 ---
 
