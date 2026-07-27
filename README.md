@@ -26,7 +26,7 @@ Building modern web experiences while continuously learning software development
 
 I'm a Computer Engineering student with a strong interest in full-stack web development and software engineering.
 
-Currently, I'm focused on strengthening my foundations in frontend development, backend technologies, databases, and data structures & algorithms while building practical projects that enhance my technical skills.
+Currently, I'm focused on strengthening my foundations in frontend development, backend technologies, databases, cloud deployment, and data structures & algorithms while building practical projects that enhance my technical skills.
 
 I enjoy creating clean, responsive, and user-focused web applications while continuously exploring modern development tools and best practices.
 
@@ -36,7 +36,7 @@ I enjoy creating clean, responsive, and user-focused web applications while cont
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,python,mysql,mongodb,git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,mysql,python,java,git,github,postman,vscode,vercel,render,npm" />
 
 </div>
 
@@ -46,15 +46,16 @@ I enjoy creating clean, responsive, and user-focused web applications while cont
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,python" />
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,java" />
 
 </div>
 
-- Frontend Development
+- Advanced React
 - Backend Development
+- REST API Development
+- MongoDB
 - Data Structures & Algorithms
-- Database Management Systems
-- Full Stack Development
+- System Design Fundamentals
 
 ---
 
@@ -62,7 +63,7 @@ I enjoy creating clean, responsive, and user-focused web applications while cont
 
 ### 🌐 Personal Portfolio Website
 
-A modern, responsive portfolio website designed to showcase my skills, projects, and development journey. Built with a strong focus on performance, clean design, accessibility, and user experience.
+A modern, responsive portfolio website designed to showcase my skills, projects, and development journey.
 
 #### Highlights
 
@@ -76,20 +77,99 @@ A modern, responsive portfolio website designed to showcase my skills, projects,
 
 <img src="https://skillicons.dev/icons?i=html,css,js" />
 
-🔗 **Live Webiste:**  
+🔗 **Live Website:**  
 https://portfolio-pradyum.vercel.app/
 
 ---
 
-### 📚 Academic Projects
+### 🔗 URL Shortener
 
-A collection of academic and coursework-based projects developed during my Computer Engineering studies, focusing on software development, database systems, web technologies, algorithms, and computer science fundamentals.
+A full-stack URL shortening application that generates short URLs and redirects users instantly using a RESTful backend.
+
+#### Highlights
+
+- Generate Short URLs
+- Instant Redirection
+- MongoDB Storage
+- REST API
+- Fully Responsive
+
+#### Tech Used
+
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb" />
+
+🔗 **Live Website:**  
+https://url-shortener-frontend-six-chi.vercel.app/
+
+---
+
+### 🏢 LeaveFlow – Leave Management System
+
+A full-stack leave management system where employees can apply for leave while administrators can review, approve, or reject requests.
+
+#### Highlights
+
+- Employee Dashboard
+- Admin Dashboard
+- Authentication
+- Leave Approval Workflow
+- Responsive Design
+
+#### Tech Used
+
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb" />
+
+
+
+---
+
+### 🔐 Authentication System
+
+A secure authentication system implementing modern user authentication and authorization practices.
+
+#### Highlights
+
+- User Registration
+- Secure Login
+- Password Hashing
+- JWT Authentication
+- Protected Routes
+
+#### Tech Used
+
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb" />
+
+🔗 **GitHub:**  
+https://authentication-service-2j59.onrender.com
+
+---
+
+### 🌦 Weather Application
+
+A responsive weather application that fetches real-time weather information using a weather API.
+
+#### Highlights
+
+- Live Weather Data
+- Search by City
+- Temperature & Humidity
+- Weather Icons
+- Responsive UI
+
+#### Tech Used
+
+<img src="https://skillicons.dev/icons?i=html,css,js" />
+
+🔗 **Live Website:**  
+https://auralis-whether-dashboard.vercel.app/
 
 ---
 
 ## 📈 Contribution Graph
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Pradyum-02&theme=tokyo-night)
+
+---
 
 ## 📊 GitHub Analytics
 
@@ -99,17 +179,17 @@ A collection of academic and coursework-based projects developed during my Compu
 
 </div>
 
-
+---
 
 ## 🎯 Current Goals
 
-- Strengthen Frontend Development Skills
-- Master JavaScript & React
-- Learn Backend Development with Node.js
-- Build Full Stack Projects
-- Practice Data Structures & Algorithms
+- Build Production-Ready Full Stack Applications
+- Master React & Modern JavaScript
+- Strengthen Backend Development
+- Learn System Design Fundamentals
+- Solve Data Structures & Algorithms
 - Contribute Consistently on GitHub
-- Secure Internship Opportunities
+- Secure Software Development Internship
 
 ---
 
@@ -117,7 +197,7 @@ A collection of academic and coursework-based projects developed during my Compu
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=vscode,git,github,figma" />
+<img src="https://skillicons.dev/icons?i=vscode,git,github,postman,figma,vercel,render" />
 
 </div>
 
@@ -155,4 +235,8 @@ A collection of academic and coursework-based projects developed during my Compu
 
 </div>
 
-<div align="center"><img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:ff8c00,100:ff5e00"/></div>
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:ff8c00,100:ff5e00"/>
+
+</div>
