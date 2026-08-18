@@ -13,7 +13,7 @@ Building modern, scalable web applications with the **MERN Stack**, and constant
 <a href="https://github.com/Pradyum-02">
   <img src="https://img.shields.io/github/followers/Pradyum-02?style=for-the-badge&logo=github&label=Followers&color=orange"/>
 </a>
-<a href="https://portfolio-react-two-kappa-81.vercel.app/">
+<a href="https://www.made-by-pradyum.online/">
   <img src="https://img.shields.io/badge/Portfolio-Live-orange?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 <a href="mailto:YOUR_EMAIL">
