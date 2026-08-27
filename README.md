@@ -39,16 +39,16 @@ Building modern, scalable web applications with the **MERN Stack**, and constant
 <div align="center">
 
 ### Languages & Core
-<img src="https://skillicons.dev/icons?i=html,css,js,java,python"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,java,python"/>
 
 ### Frontend
 <img src="https://skillicons.dev/icons?i=react,tailwind,vercel"/>
 
 ### Backend & Database
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql"/>
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,redis"/>
 
 ### Tools & Platforms
-<img src="https://skillicons.dev/icons?i=git,github,postman,vscode,npm,render"/>
+<img src="https://skillicons.dev/icons?i=git,github,docker,postman,vscode,npm,render"/>
 
 </div>
 
@@ -61,12 +61,47 @@ Building modern, scalable web applications with the **MERN Stack**, and constant
 | Advanced React (Hooks, Performance, Patterns) | 🔄 In Progress |
 | Backend Development & REST APIs | 🔄 In Progress |
 | MongoDB (Aggregation & Schema Design) | 🔄 In Progress |
+| Distributed Systems (Caching, Replication, Consensus) | 🔄 In Progress |
 | Data Structures & Algorithms | 🔄 In Progress |
 | System Design Fundamentals | 🔄 In Progress |
 
 <br/>
 
-## 📌 Featured Projects
+## 🌟 Highlighted Work
+
+<table>
+  <tr>
+    <td width="34%">
+      <h3 align="center">🌍 Distributed CDN</h3>
+      <p align="center"><b>Main highlight project</b></p>
+      <p align="center">A distributed Content Delivery Network that routes requests across edge nodes and caches content closer to users — with content replication, node health checks, and automatic failover away from unhealthy nodes.</p>
+      <p align="center"><img src="https://skillicons.dev/icons?i=ts,nodejs,express,redis,docker"/></p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Status-Ongoing-orange?style=flat-square"/>
+      </p>
+    </td>
+    <td width="33%">
+      <h3 align="center">🏛️ CivicPulse</h3>
+      <p align="center"><b>Final Year Project</b></p>
+      <p align="center">A civic-focused platform for reporting and managing civic issues, connecting citizens directly with the relevant civic administration.</p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Status-Ongoing-orange?style=flat-square"/>
+      </p>
+    </td>
+    <td width="33%">
+      <h3 align="center">🚦 Distributed Rate Limiter</h3>
+      <p align="center">A distributed rate-limiting system that coordinates limits across multiple application instances using Redis. Supports Fixed Window, Sliding Window, Token Bucket, and Leaky Bucket algorithms.</p>
+      <p align="center"><img src="https://skillicons.dev/icons?i=ts,nodejs,express,redis,docker"/></p>
+      <p align="center">
+        <a href="https://github.com/Pradyum-02/distributed-rate-limiter"><img src="https://img.shields.io/badge/View%20Code-orange?style=flat-square&logo=github&logoColor=white"/></a>
+      </p>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+## 📌 More Projects
 
 <table>
   <tr>
