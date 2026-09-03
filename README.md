@@ -1,211 +1,567 @@
 <div align="center">
 
-<img src="./assets/readme.png" alt="Pradyum Banner" width="100%" />
+<img src="./assets/readme.png" alt="Pradyum Meshram" width="100%" />
 
-# Hi there, I'm Pradyum Meshram 👋
+# Hi, I'm Pradyum Meshram 👋
 
-### Full Stack Developer • Computer Engineering Student
+### Full Stack Developer · Backend & Distributed Systems Enthusiast
 
-Building modern, scalable web applications with the **MERN Stack**, and constantly leveling up my problem-solving and system design skills.
+Building **scalable web applications, backend services, and distributed systems** with a focus on clean architecture, performance, and reliability.
+
+Currently working with **MERN, TypeScript, Redis, and Docker**, while deepening my knowledge of **System Design, Distributed Systems, and Data Structures & Algorithms**.
 
 <br/>
 
 <a href="https://github.com/Pradyum-02">
-  <img src="https://img.shields.io/github/followers/Pradyum-02?style=for-the-badge&logo=github&label=Followers&color=orange"/>
+<img src="https://img.shields.io/badge/GitHub-Pradyum--02-181717?style=for-the-badge&logo=github"/>
 </a>
+
 <a href="https://www.made-by-pradyum.online/">
-  <img src="https://img.shields.io/badge/Portfolio-Live-orange?style=for-the-badge&logo=vercel&logoColor=white"/>
+<img src="https://img.shields.io/badge/Portfolio-Live-0EA5E9?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
+
 <a href="mailto:YOUR_EMAIL">
-  <img src="https://img.shields.io/badge/Email-Contact%20Me-orange?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Email-Contact-0EA5E9?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 </div>
 
-<br/>
+---
 
-## 🧑‍💻 About Me
+## 👨‍💻 About Me
 
-- 🎓 Pursuing **B.E. in Computer Engineering** at Savitribai Phule Pune University
-- 💼 Aspiring **Full Stack Engineer** specializing in the MERN stack
-- 🌱 Currently deepening my knowledge in **Backend Development, System Design & DSA**
-- 🎯 Focused on writing clean, scalable, and production-ready code
-- 📫 Always open to collaborating on interesting web projects
+* 🎓 B.E. Computer Engineering student at **Savitribai Phule Pune University**
+* 💻 Aspiring **Full Stack / Backend Engineer**
+* ⚙️ Building applications using **MERN + TypeScript**
+* 🧠 Exploring **Distributed Systems & System Design**
+* 🚦 Working with **Redis, caching, rate limiting and distributed coordination**
+* 🔐 Building secure systems with **JWT, bcrypt and role-based authorization**
+* 🔌 Exploring **WebSockets and real-time application architecture**
+* 🧩 Practicing **Data Structures & Algorithms**
+* 🚀 Interested in building **scalable, reliable and production-oriented systems**
 
-<br/>
+---
 
-## 🛠️ Tech Stack
+# 🛠️ Tech Stack
 
-<div align="center">
+### Languages
 
-### Languages & Core
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,java,python"/>
+<p>
+<img src="https://skillicons.dev/icons?i=javascript,typescript,java,python,html,css" />
+</p>
 
 ### Frontend
-<img src="https://skillicons.dev/icons?i=react,tailwind,vercel"/>
 
-### Backend & Database
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,redis"/>
+<p>
+<img src="https://skillicons.dev/icons?i=react,tailwind,vite" />
+</p>
+
+### Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express" />
+</p>
+
+### Databases & Infrastructure
+
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,redis,docker" />
+</p>
 
 ### Tools & Platforms
-<img src="https://skillicons.dev/icons?i=git,github,docker,postman,vscode,npm,render"/>
 
-</div>
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,postman,vscode,npm,vercel,render" />
+</p>
 
-<br/>
+### Engineering Technologies
 
-## 🚀 Currently Learning
+<p>
+<img src="https://img.shields.io/badge/REST%20APIs-0EA5E9?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/JWT-Authentication-0EA5E9?style=for-the-badge&logo=jsonwebtokens"/>
+<img src="https://img.shields.io/badge/bcrypt-Password%20Hashing-0EA5E9?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/WebSockets-Realtime-0EA5E9?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/RBAC-Authorization-0EA5E9?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Caching-Redis-0EA5E9?style=for-the-badge&logo=redis"/>
+</p>
 
-| Focus Area | Status |
-|---|---|
-| Advanced React (Hooks, Performance, Patterns) | 🔄 In Progress |
-| Backend Development & REST APIs | 🔄 In Progress |
-| MongoDB (Aggregation & Schema Design) | 🔄 In Progress |
-| Distributed Systems (Caching, Replication, Consensus) | 🔄 In Progress |
-| Data Structures & Algorithms | 🔄 In Progress |
-| System Design Fundamentals | 🔄 In Progress |
+---
 
-<br/>
-
-## 🌟 Highlighted Work
-
-<table>
-  <tr>
-    <td width="34%">
-      <h3 align="center">🌍 Distributed CDN</h3>
-      <p align="center"><b>Main highlight project</b></p>
-      <p align="center">A distributed Content Delivery Network that routes requests across edge nodes and caches content closer to users — with content replication, node health checks, and automatic failover away from unhealthy nodes.</p>
-      <p align="center"><img src="https://skillicons.dev/icons?i=ts,nodejs,express,redis,docker"/></p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Status-Ongoing-orange?style=flat-square"/>
-      </p>
-    </td>
-    <td width="33%">
-      <h3 align="center">🏛️ CivicPulse</h3>
-      <p align="center"><b>Final Year Project</b></p>
-      <p align="center">A civic-focused platform for reporting and managing civic issues, connecting citizens directly with the relevant civic administration.</p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Status-Ongoing-orange?style=flat-square"/>
-      </p>
-    </td>
-    <td width="33%">
-      <h3 align="center">🚦 Distributed Rate Limiter</h3>
-      <p align="center">A distributed rate-limiting system that coordinates limits across multiple application instances using Redis. Supports Fixed Window, Sliding Window, Token Bucket, and Leaky Bucket algorithms.</p>
-      <p align="center"><img src="https://skillicons.dev/icons?i=ts,nodejs,express,redis,docker"/></p>
-      <p align="center">
-        <a href="https://github.com/Pradyum-02/distributed-rate-limiter"><img src="https://img.shields.io/badge/View%20Code-orange?style=flat-square&logo=github&logoColor=white"/></a>
-      </p>
-    </td>
-  </tr>
-</table>
-
-<br/>
-
-## 📌 More Projects
+# 🚀 Featured Projects
 
 <table>
-  <tr>
-    <td width="50%">
-      <h3 align="center">🌐 Personal Portfolio</h3>
-      <p align="center">Modern, responsive developer portfolio showcasing my projects and skills.</p>
-      <p align="center"><img src="https://skillicons.dev/icons?i=html,css,js"/></p>
-      <p align="center">
-        <a href="https://portfolio-react-two-kappa-81.vercel.app/"><img src="https://img.shields.io/badge/Live%20Demo-orange?style=flat-square&logo=vercel&logoColor=white"/></a>
-      </p>
-    </td>
-    <td width="50%">
-      <h3 align="center">🔗 URL Shortener</h3>
-      <p align="center">MERN application that generates short URLs with instant redirection.</p>
-      <p align="center"><img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb"/></p>
-      <p align="center">
-        <a href="https://url-shortener-nu-ecru.vercel.app/"><img src="https://img.shields.io/badge/Live%20Demo-orange?style=flat-square&logo=vercel&logoColor=white"/></a>
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3 align="center">🗓️ LeaveFlow</h3>
-      <p align="center">Leave Management System with employee/admin dashboards and role-based authentication.</p>
-      <p align="center"><img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb"/></p>
-      <p align="center">
-        <a href="https://leave-flow-taupe.vercel.app/"><img src="https://img.shields.io/badge/Live%20Demo-orange?style=flat-square&logo=vercel&logoColor=white"/></a>
-      </p>
-    </td>
-    <td width="50%">
-      <h3 align="center">🔐 Authentication Service</h3>
-      <p align="center">JWT-based authentication system with secure login, registration, and protected routes.</p>
-      <p align="center"><img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb"/></p>
-      <p align="center">
-        <a href="https://github.com/Pradyum-02/Authentication-Service"><img src="https://img.shields.io/badge/View%20Code-orange?style=flat-square&logo=github&logoColor=white"/></a>
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3 align="center">⛅ Weather Dashboard</h3>
-      <p align="center">Responsive weather application built using a public Weather API.</p>
-      <p align="center"><img src="https://skillicons.dev/icons?i=html,css,js"/></p>
-      <p align="center">
-        <a href="https://auralis-whether-dashboard.vercel.app/"><img src="https://img.shields.io/badge/Live%20Demo-orange?style=flat-square&logo=vercel&logoColor=white"/></a>
-      </p>
-    </td>
-    <td width="50%">
-      <h3 align="center">✨ More on the way...</h3>
-      <p align="center">New projects are constantly in the pipeline — check back soon!</p>
-    </td>
-  </tr>
+<tr>
+
+<td width="50%" valign="top">
+
+<h3>📦 Packet — Distributed CDN</h3>
+
+<p>
+A distributed Content Delivery Network designed to route requests across edge nodes and serve cached content closer to users.
+</p>
+
+<p><b>Engineering Highlights</b></p>
+
+<ul>
+<li>Distributed request routing</li>
+<li>Edge-node caching</li>
+<li>Content replication</li>
+<li>Node health checks</li>
+<li>Automatic failover</li>
+<li>Fault-tolerant architecture</li>
+</ul>
+
+<p><b>Tech Stack</b></p>
+
+<p>
+<img src="https://skillicons.dev/icons?i=typescript,nodejs,express,redis,docker" />
+</p>
+
+<p>
+<img src="https://img.shields.io/badge/HTTP-Protocol-0EA5E9?style=flat-square"/>
+<img src="https://img.shields.io/badge/Caching-Redis-0EA5E9?style=flat-square"/>
+<img src="https://img.shields.io/badge/Replication-Distributed-0EA5E9?style=flat-square"/>
+<img src="https://img.shields.io/badge/Failover-High%20Availability-0EA5E9?style=flat-square"/>
+</p>
+
+<p>
+<a href="https://github.com/Pradyum-02">
+<img src="https://img.shields.io/badge/View%20Project-181717?style=flat-square&logo=github"/>
+</a>
+</p>
+
+</td>
+
+<td width="50%" valign="top">
+
+<h3>🚦 Distributed Rate Limiter</h3>
+
+<p>
+A distributed rate-limiting service that coordinates request limits across multiple application instances using Redis.
+</p>
+
+<p><b>Algorithms</b></p>
+
+<ul>
+<li>Fixed Window</li>
+<li>Sliding Window</li>
+<li>Token Bucket</li>
+<li>Leaky Bucket</li>
+<li>Distributed request coordination</li>
+</ul>
+
+<p><b>Tech Stack</b></p>
+
+<p>
+<img src="https://skillicons.dev/icons?i=typescript,nodejs,express,redis,docker" />
+</p>
+
+<p>
+<img src="https://img.shields.io/badge/Redis-Distributed%20State-0EA5E9?style=flat-square&logo=redis"/>
+<img src="https://img.shields.io/badge/Rate%20Limiting-Algorithms-0EA5E9?style=flat-square"/>
+<img src="https://img.shields.io/badge/REST-API-0EA5E9?style=flat-square"/>
+<img src="https://img.shields.io/badge/Docker-Containerized-0EA5E9?style=flat-square&logo=docker"/>
+</p>
+
+<p>
+<a href="https://github.com/Pradyum-02/distributed-rate-limiter">
+<img src="https://img.shields.io/badge/View%20Project-181717?style=flat-square&logo=github"/>
+</a>
+</p>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+<h3>🏛️ CivicPulse</h3>
+
+<p>
+A civic technology platform connecting citizens with civic administration for reporting, tracking and managing local issues.
+</p>
+
+<p><b>Core Features</b></p>
+
+<ul>
+<li>Civic issue reporting</li>
+<li>Issue tracking</li>
+<li>Administrative workflows</li>
+<li>User authentication</li>
+<li>Role-based access</li>
+<li>Centralized issue management</li>
+</ul>
+
+<p><b>Tech Stack</b></p>
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,tailwind,nodejs,express,mongodb" />
+</p>
+
+<p>
+<img src="https://img.shields.io/badge/JWT-Authentication-0EA5E9?style=flat-square&logo=jsonwebtokens"/>
+<img src="https://img.shields.io/badge/bcrypt-Password%20Hashing-0EA5E9?style=flat-square"/>
+<img src="https://img.shields.io/badge/RBAC-Authorization-0EA5E9?style=flat-square"/>
+<img src="https://img.shields.io/badge/REST-API-0EA5E9?style=flat-square"/>
+</p>
+
+<p>
+<a href="https://github.com/Pradyum-02">
+<img src="https://img.shields.io/badge/View%20Project-181717?style=flat-square&logo=github"/>
+</a>
+</p>
+
+</td>
+
+<td width="50%" valign="top">
+
+<h3>🔎 RecallX</h3>
+
+<p>
+A full-stack application focused on structured information management and efficient retrieval through a modern web interface.
+</p>
+
+<p><b>Core Concepts</b></p>
+
+<ul>
+<li>Full-stack architecture</li>
+<li>REST API communication</li>
+<li>Structured data management</li>
+<li>Search & retrieval</li>
+<li>Authentication</li>
+</ul>
+
+<p><b>Tech Stack</b></p>
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,tailwind,nodejs,express,mongodb" />
+</p>
+
+<p>
+<img src="https://img.shields.io/badge/JWT-Authentication-0EA5E9?style=flat-square&logo=jsonwebtokens"/>
+<img src="https://img.shields.io/badge/bcrypt-Security-0EA5E9?style=flat-square"/>
+<img src="https://img.shields.io/badge/REST-API-0EA5E9?style=flat-square"/>
+<img src="https://img.shields.io/badge/MongoDB-Data%20Storage-0EA5E9?style=flat-square&logo=mongodb"/>
+</p>
+
+<p>
+<a href="https://github.com/Pradyum-02">
+<img src="https://img.shields.io/badge/View%20Project-181717?style=flat-square&logo=github"/>
+</a>
+</p>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+<h3>💬 ChatFlow</h3>
+
+<p>
+A real-time communication application built around persistent messaging, authentication and real-time client-server communication.
+</p>
+
+<p><b>Core Features</b></p>
+
+<ul>
+<li>Real-time messaging</li>
+<li>WebSocket communication</li>
+<li>User authentication</li>
+<li>Persistent conversations</li>
+<li>Protected routes</li>
+</ul>
+
+<p><b>Tech Stack</b></p>
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,socketio" />
+</p>
+
+<p>
+<img src="https://img.shields.io/badge/WebSockets-Realtime-0EA5E9?style=flat-square"/>
+<img src="https://img.shields.io/badge/Socket.IO-Realtime%20Events-0EA5E9?style=flat-square&logo=socket.io"/>
+<img src="https://img.shields.io/badge/JWT-Authentication-0EA5E9?style=flat-square&logo=jsonwebtokens"/>
+<img src="https://img.shields.io/badge/bcrypt-Password%20Hashing-0EA5E9?style=flat-square"/>
+</p>
+
+<p>
+<a href="https://github.com/Pradyum-02">
+<img src="https://img.shields.io/badge/View%20Project-181717?style=flat-square&logo=github"/>
+</a>
+</p>
+
+</td>
+
+<td width="50%" valign="top">
+
+<h3>🔐 Authentication Service</h3>
+
+<p>
+A reusable authentication backend providing secure identity and access management for web applications.
+</p>
+
+<p><b>Security Features</b></p>
+
+<ul>
+<li>User registration & login</li>
+<li>JWT-based authentication</li>
+<li>Password hashing with bcrypt</li>
+<li>Protected routes</li>
+<li>Role-based authorization</li>
+<li>Authentication middleware</li>
+</ul>
+
+<p><b>Tech Stack</b></p>
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
+</p>
+
+<p>
+<img src="https://img.shields.io/badge/JWT-Authentication-0EA5E9?style=flat-square&logo=jsonwebtokens"/>
+<img src="https://img.shields.io/badge/bcrypt-Password%20Hashing-0EA5E9?style=flat-square"/>
+<img src="https://img.shields.io/badge/RBAC-Authorization-0EA5E9?style=flat-square"/>
+<img src="https://img.shields.io/badge/Middleware-Express-0EA5E9?style=flat-square"/>
+</p>
+
+<p>
+<a href="https://github.com/Pradyum-02/Authentication-Service">
+<img src="https://img.shields.io/badge/View%20Project-181717?style=flat-square&logo=github"/>
+</a>
+</p>
+
+</td>
+
+</tr>
+
 </table>
 
-<br/>
+---
 
-## 📈 GitHub Activity
+# 📌 Other Projects
+
+<table>
+
+<tr>
+
+<td width="50%" valign="top">
+
+<h3>🔗 URL Shortener</h3>
+
+<p>
+A full-stack URL shortening service that generates compact URLs and provides fast redirection.
+</p>
+
+<p><b>Tech Stack</b></p>
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb" />
+</p>
+
+<p>
+<img src="https://img.shields.io/badge/REST-API-0EA5E9?style=flat-square"/>
+<img src="https://img.shields.io/badge/MongoDB-Database-0EA5E9?style=flat-square&logo=mongodb"/>
+</p>
+
+<p>
+<a href="https://url-shortener-nu-ecru.vercel.app/">
+<img src="https://img.shields.io/badge/Live%20Demo-0EA5E9?style=flat-square&logo=vercel&logoColor=white"/>
+</a>
+</p>
+
+</td>
+
+<td width="50%" valign="top">
+
+<h3>🗓️ LeaveFlow</h3>
+
+<p>
+A leave management system with employee and administrator dashboards, authentication and role-based workflows.
+</p>
+
+<p><b>Tech Stack</b></p>
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb" />
+</p>
+
+<p>
+<img src="https://img.shields.io/badge/JWT-Authentication-0EA5E9?style=flat-square&logo=jsonwebtokens"/>
+<img src="https://img.shields.io/badge/bcrypt-Security-0EA5E9?style=flat-square"/>
+<img src="https://img.shields.io/badge/RBAC-Authorization-0EA5E9?style=flat-square"/>
+</p>
+
+<p>
+<a href="https://leave-flow-taupe.vercel.app/">
+<img src="https://img.shields.io/badge/Live%20Demo-0EA5E9?style=flat-square&logo=vercel&logoColor=white"/>
+</a>
+</p>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+<h3>⛅ Weather Dashboard</h3>
+
+<p>
+Responsive weather application consuming a public weather API and displaying weather information through a clean interface.
+</p>
+
+<p><b>Tech Stack</b></p>
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,javascript" />
+</p>
+
+<p>
+<img src="https://img.shields.io/badge/REST-API-0EA5E9?style=flat-square"/>
+<img src="https://img.shields.io/badge/API%20Integration-0EA5E9?style=flat-square"/>
+</p>
+
+<p>
+<a href="https://auralis-whether-dashboard.vercel.app/">
+<img src="https://img.shields.io/badge/Live%20Demo-0EA5E9?style=flat-square&logo=vercel&logoColor=white"/>
+</a>
+</p>
+
+</td>
+
+<td width="50%" valign="top">
+
+<h3>🌐 Personal Portfolio</h3>
+
+<p>
+Responsive developer portfolio showcasing projects, technical skills and development experience.
+</p>
+
+<p><b>Tech Stack</b></p>
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,tailwind,vite" />
+</p>
+
+<p>
+<img src="https://img.shields.io/badge/Responsive%20UI-0EA5E9?style=flat-square"/>
+<img src="https://img.shields.io/badge/Deployment-Vercel-0EA5E9?style=flat-square&logo=vercel"/>
+</p>
+
+<p>
+<a href="https://www.made-by-pradyum.online/">
+<img src="https://img.shields.io/badge/Live%20Demo-0EA5E9?style=flat-square&logo=vercel&logoColor=white"/>
+</a>
+</p>
+
+</td>
+
+</tr>
+
+</table>
+
+---
+
+# 🧠 Engineering Focus
 
 <div align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Pradyum-02&theme=tokyo-night&hide_border=true&area=true"/>
+
+| Backend Engineering | Distributed Systems |     Security     |    Real-Time Systems   |
+| :-----------------: | :-----------------: | :--------------: | :--------------------: |
+|      REST APIs      |       Caching       |        JWT       |       WebSockets       |
+|      Middleware     |    Rate Limiting    |      bcrypt      |        Socket.IO       |
+|   API Architecture  |     Replication     |       RBAC       |    Real-Time Events    |
+|   Database Design   |       Failover      |   Authorization  |  Persistent Messaging  |
+|   API Integration   |    Health Checks    | Protected Routes | Client Synchronization |
+
+</div>
+
+---
+
+# 📚 Currently Learning
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=typescript,redis,docker,kubernetes,linux" />
+
 </div>
 
 <br/>
 
-## 📊 GitHub Stats
+* **Advanced TypeScript**
+* **Backend Architecture**
+* **Distributed Systems**
+* **System Design**
+* **Redis & Distributed Caching**
+* **Docker & Containerization**
+* **Database Design**
+* **Data Structures & Algorithms**
+* **Scalable API Architecture**
+
+---
+
+# 📊 GitHub Statistics
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Pradyum-02&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Pradyum-02&theme=tokyonight&hide_border=true"/>
-</div>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pradyum-02&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Pradyum-02&show_icons=true&theme=github_dark&hide_border=true&count_private=true"/>
+
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Pradyum-02&theme=github-dark-blue&hide_border=true"/>
+
 </div>
 
 <br/>
 
-## 📫 Let's Connect
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pradyum-02&layout=compact&theme=github_dark&hide_border=true"/>
+
+</div>
+
+---
+
+# 📈 GitHub Activity
+
+<div align="center">
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Pradyum-02&theme=github-compact&hide_border=true&area=true"/>
+
+</div>
+
+---
+
+# 📫 Let's Connect
 
 <div align="center">
 
 <a href="https://github.com/Pradyum-02">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-Pradyum--02-181717?style=for-the-badge&logo=github"/>
 </a>
+
 <a href="YOUR_LINKEDIN_URL">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
+
 <a href="mailto:YOUR_EMAIL">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-<a href="https://portfolio-react-two-kappa-81.vercel.app/">
-  <img src="https://img.shields.io/badge/Portfolio-FF7A00?style=for-the-badge&logo=vercel&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-</div>
+<a href="https://www.made-by-pradyum.online/">
+<img src="https://img.shields.io/badge/Portfolio-Visit-0EA5E9?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
 
-<br/>
+<br/><br/>
 
-<div align="center">
+<img src="https://komarev.com/ghpvc/?username=Pradyum-02&style=for-the-badge&color=0EA5E9" alt="Profile Views"/>
 
-### ⭐ If you like my work, consider starring some of my repositories!
+<br/><br/>
 
-Built with ❤️ and a lot of ☕
-
-<img src="https://komarev.com/ghpvc/?username=Pradyum-02&style=for-the-badge&color=orange" alt="Profile views"/>
+### Built With Coffee & Lots Of Love(Curse Words).
 
 </div>
