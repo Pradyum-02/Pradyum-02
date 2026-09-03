@@ -6,9 +6,9 @@
 
 ### Full Stack Developer · Backend & Distributed Systems Enthusiast
 
-Building **scalable web applications, backend services, and distributed systems** with a focus on clean architecture, performance, and reliability.
+Building **scalable web applications, backend services, and distributed systems** with a focus on clean architecture, performance, security, and reliability.
 
-Currently working with **MERN, TypeScript, Redis, and Docker**, while deepening my knowledge of **System Design, Distributed Systems, and Data Structures & Algorithms**.
+Currently working with **MERN, TypeScript, Redis, Supabase, and Docker**, while deepening my knowledge of **System Design, Distributed Systems, and Data Structures & Algorithms**.
 
 <br/>
 
@@ -37,6 +37,8 @@ Currently working with **MERN, TypeScript, Redis, and Docker**, while deepening 
 * 🚦 Working with **Redis, caching, rate limiting and distributed coordination**
 * 🔐 Building secure systems with **JWT, bcrypt and role-based authorization**
 * 🔌 Exploring **WebSockets and real-time application architecture**
+* 🗄️ Working with **MongoDB, MySQL and Supabase**
+* 🐳 Learning **Docker and containerized backend systems**
 * 🧩 Practicing **Data Structures & Algorithms**
 * 🚀 Interested in building **scalable, reliable and production-oriented systems**
 
@@ -62,16 +64,16 @@ Currently working with **MERN, TypeScript, Redis, and Docker**, while deepening 
 <img src="https://skillicons.dev/icons?i=nodejs,express" />
 </p>
 
-### Databases & Infrastructure
+### Databases & Backend Services
 
 <p>
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,redis,docker" />
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,redis,supabase" />
 </p>
 
-### Tools & Platforms
+### Infrastructure & Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,postman,vscode,npm,vercel,render" />
+<img src="https://skillicons.dev/icons?i=docker,git,github,postman,vscode,npm,vercel,render" />
 </p>
 
 ### Engineering Technologies
@@ -81,8 +83,12 @@ Currently working with **MERN, TypeScript, Redis, and Docker**, while deepening 
 <img src="https://img.shields.io/badge/JWT-Authentication-0EA5E9?style=for-the-badge&logo=jsonwebtokens"/>
 <img src="https://img.shields.io/badge/bcrypt-Password%20Hashing-0EA5E9?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/WebSockets-Realtime-0EA5E9?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Socket.IO-Realtime-0EA5E9?style=for-the-badge&logo=socket.io"/>
 <img src="https://img.shields.io/badge/RBAC-Authorization-0EA5E9?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Caching-Redis-0EA5E9?style=for-the-badge&logo=redis"/>
+<img src="https://img.shields.io/badge/Rate%20Limiting-Distributed-0EA5E9?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Replication-Distributed-0EA5E9?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Failover-High%20Availability-0EA5E9?style=for-the-badge"/>
 </p>
 
 ---
@@ -119,8 +125,9 @@ A distributed Content Delivery Network designed to route requests across edge no
 
 <p>
 <img src="https://img.shields.io/badge/HTTP-Protocol-0EA5E9?style=flat-square"/>
-<img src="https://img.shields.io/badge/Caching-Redis-0EA5E9?style=flat-square"/>
+<img src="https://img.shields.io/badge/Caching-Redis-0EA5E9?style=flat-square&logo=redis"/>
 <img src="https://img.shields.io/badge/Replication-Distributed-0EA5E9?style=flat-square"/>
+<img src="https://img.shields.io/badge/Health%20Checks-0EA5E9?style=flat-square"/>
 <img src="https://img.shields.io/badge/Failover-High%20Availability-0EA5E9?style=flat-square"/>
 </p>
 
@@ -180,7 +187,7 @@ A distributed rate-limiting service that coordinates request limits across multi
 <h3>🏛️ CivicPulse</h3>
 
 <p>
-A civic technology platform connecting citizens with civic administration for reporting, tracking and managing local issues.
+A civic technology platform for reporting, tracking and managing local issues through citizen and administrative workflows.
 </p>
 
 <p><b>Core Features</b></p>
@@ -201,10 +208,9 @@ A civic technology platform connecting citizens with civic administration for re
 </p>
 
 <p>
-<img src="https://img.shields.io/badge/JWT-Authentication-0EA5E9?style=flat-square&logo=jsonwebtokens"/>
-<img src="https://img.shields.io/badge/bcrypt-Password%20Hashing-0EA5E9?style=flat-square"/>
-<img src="https://img.shields.io/badge/RBAC-Authorization-0EA5E9?style=flat-square"/>
 <img src="https://img.shields.io/badge/REST-API-0EA5E9?style=flat-square"/>
+<img src="https://img.shields.io/badge/JWT-Authentication-0EA5E9?style=flat-square&logo=jsonwebtokens"/>
+<img src="https://img.shields.io/badge/RBAC-Authorization-0EA5E9?style=flat-square"/>
 </p>
 
 <p>
@@ -240,9 +246,8 @@ A full-stack application focused on structured information management and effici
 </p>
 
 <p>
-<img src="https://img.shields.io/badge/JWT-Authentication-0EA5E9?style=flat-square&logo=jsonwebtokens"/>
-<img src="https://img.shields.io/badge/bcrypt-Security-0EA5E9?style=flat-square"/>
 <img src="https://img.shields.io/badge/REST-API-0EA5E9?style=flat-square"/>
+<img src="https://img.shields.io/badge/JWT-Authentication-0EA5E9?style=flat-square&logo=jsonwebtokens"/>
 <img src="https://img.shields.io/badge/MongoDB-Data%20Storage-0EA5E9?style=flat-square&logo=mongodb"/>
 </p>
 
@@ -286,7 +291,6 @@ A real-time communication application built around persistent messaging, authent
 <img src="https://img.shields.io/badge/WebSockets-Realtime-0EA5E9?style=flat-square"/>
 <img src="https://img.shields.io/badge/Socket.IO-Realtime%20Events-0EA5E9?style=flat-square&logo=socket.io"/>
 <img src="https://img.shields.io/badge/JWT-Authentication-0EA5E9?style=flat-square&logo=jsonwebtokens"/>
-<img src="https://img.shields.io/badge/bcrypt-Password%20Hashing-0EA5E9?style=flat-square"/>
 </p>
 
 <p>
@@ -310,6 +314,7 @@ A reusable authentication backend providing secure identity and access managemen
 <ul>
 <li>User registration & login</li>
 <li>JWT-based authentication</li>
+<li>Refresh token authentication</li>
 <li>Password hashing with bcrypt</li>
 <li>Protected routes</li>
 <li>Role-based authorization</li>
@@ -326,6 +331,7 @@ A reusable authentication backend providing secure identity and access managemen
 <img src="https://img.shields.io/badge/JWT-Authentication-0EA5E9?style=flat-square&logo=jsonwebtokens"/>
 <img src="https://img.shields.io/badge/bcrypt-Password%20Hashing-0EA5E9?style=flat-square"/>
 <img src="https://img.shields.io/badge/RBAC-Authorization-0EA5E9?style=flat-square"/>
+<img src="https://img.shields.io/badge/Refresh%20Tokens-0EA5E9?style=flat-square"/>
 <img src="https://img.shields.io/badge/Middleware-Express-0EA5E9?style=flat-square"/>
 </p>
 
@@ -392,7 +398,6 @@ A leave management system with employee and administrator dashboards, authentica
 
 <p>
 <img src="https://img.shields.io/badge/JWT-Authentication-0EA5E9?style=flat-square&logo=jsonwebtokens"/>
-<img src="https://img.shields.io/badge/bcrypt-Security-0EA5E9?style=flat-square"/>
 <img src="https://img.shields.io/badge/RBAC-Authorization-0EA5E9?style=flat-square"/>
 </p>
 
@@ -488,7 +493,7 @@ Responsive developer portfolio showcasing projects, technical skills and develop
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=typescript,redis,docker,kubernetes,linux" />
+<img src="https://skillicons.dev/icons?i=typescript,redis,docker,kubernetes,linux,supabase" />
 
 </div>
 
@@ -500,6 +505,7 @@ Responsive developer portfolio showcasing projects, technical skills and develop
 * **System Design**
 * **Redis & Distributed Caching**
 * **Docker & Containerization**
+* **Supabase & PostgreSQL**
 * **Database Design**
 * **Data Structures & Algorithms**
 * **Scalable API Architecture**
@@ -562,6 +568,6 @@ Responsive developer portfolio showcasing projects, technical skills and develop
 
 <br/><br/>
 
-### Built With Coffee & Lots Of Love(Curse Words).
+### Building systems. Solving problems. Learning continuously.
 
 </div>
